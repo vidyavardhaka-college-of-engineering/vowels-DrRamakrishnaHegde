@@ -6,6 +6,6 @@ void main()
 {
   int n;
   printf("enter a value :");
-  scanf();
-  printf("the value is ", );
+  scanf("%d",&n);
+  printf("the value is %d ", n);
 }
