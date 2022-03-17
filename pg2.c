@@ -7,5 +7,5 @@ void main()
   int n;
   printf("enter a value :");
   scanf("%d",&n);
-  printf("the value is ",n);
+  printf("the value is ", n);
 }
